@@ -11,5 +11,5 @@
   
     ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
     ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
-
+    https://img.shields.io/badge/PYTHON?style=flat-square&logo=%233776AB&logoColor=WHITE&color=BLUE
     ![Google Ads Badge](https://img.shields.io/badge/Google%20Ads-4285F4?logo=googleads&logoColor=fff&style=flat-square)
