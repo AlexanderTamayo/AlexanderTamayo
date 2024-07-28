@@ -3,3 +3,4 @@
 ## About me
 - 💼 Business Engineer
 - 📈 Data Analyst
+- 📑 IBM Data Science Certificate
