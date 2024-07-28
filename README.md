@@ -7,3 +7,4 @@
 - 📱 Meta Marketing Analytics [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/Y6QDLHD7PWFK?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 
 ## Skills
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
