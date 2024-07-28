@@ -1,5 +1,5 @@
 ## Hi there, my name is Alexander Tamayo 👋
 
 ## About me
-## - 💼 Business Engineer
-   - 📈 Data Analyst
+- 💼 Business Engineer
+- 📈 Data Analyst
