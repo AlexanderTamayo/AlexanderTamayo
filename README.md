@@ -13,3 +13,4 @@
     ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
     ![Google Ads Badge](https://img.shields.io/badge/Google%20Ads-4285F4?logo=googleads&logoColor=fff&style=flat-square)
     ![Static Badge](https://img.shields.io/badge/Python?style=flat-square&logo=3776AB&logoColor=WHITE&color=fff)
+    ![Static Badge](https://img.shields.io/badge/Python)
