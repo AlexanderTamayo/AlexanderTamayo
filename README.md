@@ -10,5 +10,7 @@
 
   ![Static Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/SQL-blue?style=flat-square&logo=MySQL&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Power%20BI-blue?style=flat-square&logo=googleanalytics&logoColor=white)
+  
 
 
