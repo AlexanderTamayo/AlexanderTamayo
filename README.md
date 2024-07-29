@@ -8,6 +8,5 @@
 
 ## Skills
 *
-  
-![Static Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)
 
