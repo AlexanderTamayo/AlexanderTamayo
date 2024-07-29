@@ -13,6 +13,8 @@
   ![Static Badge](https://img.shields.io/badge/Power%20BI-blue?style=flat-square&logo=googleanalytics&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Google%20Ads-blue?style=flat-square&logo=googleads&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Google%20Analytics-blue?style=flat-square&logo=google&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Scikit%20Learn-blue?style=flat-square&logo=scikitlearn&logoColor=white)
+
 
 
 
